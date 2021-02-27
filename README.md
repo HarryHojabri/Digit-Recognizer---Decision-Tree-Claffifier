@@ -1,1 +1,1 @@
-# Digit-Recognizer---Decision-Tree-Claffifier
+# Digit-Recognizer-Decision-Tree-Classifier
